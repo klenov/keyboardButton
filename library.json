@@ -1,0 +1,13 @@
+{
+  "name": "keyboardButton",
+  "keywords": "keyboard, HID, push-button, 32u4",
+  "description": "Convinient way to map a push-button to a keyboard key. This library utilize the ability of 32u4-based Arduino-compatible boards to emulate USB-keyboard.",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/klenov/keyboardButton"
+  },
+  "frameworks": "arduino",
+  "platforms": [
+    "atmelavr"
+  ]
+}
