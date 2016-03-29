@@ -3,8 +3,8 @@
    https://github.com/klenov/KeyboardButton
 */
 
-#include "Arduino.h"
-#include "Keyboard.h"
+#include <Arduino.h>
+#include <Keyboard.h>
 
 #define BUTTON_MINIMAL_DELAY 10
 
