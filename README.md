@@ -1,6 +1,6 @@
 # keyboardButton
 
-This library will work only on 32u4-based boards (Arduino Leonardo or Micro, SparkFun Pro Micro, Adafruit Feather etc) and only on pins with external interrupt support. 
+This library will work only on 32u4-based boards (Arduino Leonardo or Micro, SparkFun Pro Micro, Adafruit Feather, etc.) and only on pins with external interrupt support.
 
 On Micro, Leonardo and other 32u4-based boards there are 5 external interrupts available on pins **0**, **1**, **2**, **3**, **7**.
 
