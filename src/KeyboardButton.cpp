@@ -5,14 +5,14 @@
 
 #include "KeyboardButton.h"
 
- /*! * default Constructor */
+/*! Default constructor */
 KeyboardButton::KeyboardButton(const int _pin)
-  : pin(_pin),
-    keyboard_key(0),
-    press_detected(false),
-    pressed_flag(false),
+  : pressed_flag(false),
     enabled_flag(false),
-    last_updated_at(0) {}
+    pin(_pin),
+    press_detected(false),
+    last_updated_at(0),
+    keyboard_key(0) {}
 
 void KeyboardButton::enablePullup() {
   pinMode(pin, INPUT_PULLUP);

@@ -3,6 +3,8 @@
    https://github.com/klenov/KeyboardButton
 */
 
+#pragma once
+
 #include <Arduino.h>
 #include <Keyboard.h>
 
@@ -57,5 +59,3 @@ class KeyboardButton {
     }
 
 };
-
-
