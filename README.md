@@ -23,8 +23,8 @@ void loop() {
 }
 ```
 ## Useful links
-* [Arduino Keyboard Modifiers](https://www.arduino.cc/en/Reference/KeyboardModifiers)
-* [SparkFun tutorial: Turn your ProMicro into a USB Keyboard/Mouse](https://www.sparkfun.com/tutorials/337)
+* [Arduino Keyboard Modifiers and Special Keys](https://docs.arduino.cc/language-reference/en/functions/usb/Keyboard/keyboardModifiers/)
+* [SparkFun Pro Micro Hookup Guide: HID Mouse and Keyboard](https://learn.sparkfun.com/tutorials/pro-micro--fio-v3-hookup-guide/example-2-hid-mouse-and-keyboard)
 
 ## Tested with
 * Pro Micro
